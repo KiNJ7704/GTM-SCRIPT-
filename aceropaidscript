@@ -62,10 +62,10 @@ check(){
 █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
 █░░║║║╠─║─║─║║║║║╠─░░█
 █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-█▄TO ACERO SCRIPT DNS▄█
+█▄TO ACERO PAID SCRIPT DNS▄█
 
 {reset_color}"
-  echo -e "${border_color}│${header_color}${padding}JENNY DNS Status Check Results${padding}${reset_color}"
+  echo -e "${border_color}│${header_color}${padding}ACERO DNS Status Check Results${padding}${reset_color}"
   echo -e "${border_color}├────────────────────────────────────────────────┤${reset_color}"
   
   # Results
